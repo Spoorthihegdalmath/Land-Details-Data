@@ -1,0 +1,27 @@
+2026-02-08 18:35:16,094 - ERROR - 
+2026-02-08 18:35:17,185 - ERROR - 
+2026-02-08 18:35:18,483 - ERROR - 
+2026-02-08 18:35:19,548 - ERROR - 
+2026-02-08 18:45:25,502 - INFO - OCR triggered for data/pdfs\Government Circular.pdf (Avg chars: 0.0)
+2026-02-08 18:46:01,065 - INFO - OCR triggered for data/pdfs\Kharab Biparkation Government 2018.pdf (Avg chars: 0.0)
+2026-02-08 18:46:06,611 - INFO - OCR triggered for data/pdfs\kharab.pdf (Avg chars: 23.0)
+2026-02-08 18:46:51,897 - INFO - OCR triggered for data/pdfs\local planning authority (2).pdf (Avg chars: 23.0)
+2026-02-08 18:47:00,370 - INFO - OCR triggered for data/pdfs\Government Circular.pdf (Avg chars: 0.0)
+2026-02-08 18:47:14,581 - INFO - OCR triggered for data/pdfs\Government Circular.pdf (Avg chars: 0.0)
+2026-02-08 18:47:34,580 - INFO - OCR triggered for data/pdfs\Kharab Biparkation Government 2018.pdf (Avg chars: 0.0)
+2026-02-08 18:47:48,565 - INFO - OCR triggered for data/pdfs\kharab.pdf (Avg chars: 23.0)
+2026-02-08 18:47:59,893 - INFO - OCR triggered for data/pdfs\kharab.pdf (Avg chars: 23.0)
+2026-02-08 18:48:00,044 - INFO - OCR triggered for data/pdfs\Kharab Biparkation Government 2018.pdf (Avg chars: 0.0)
+2026-02-08 18:50:12,765 - INFO - OCR triggered for data/pdfs\local planning authority (2).pdf (Avg chars: 23.0)
+2026-02-08 18:50:17,718 - INFO - OCR triggered for data/pdfs\local planning authority (2).pdf (Avg chars: 23.0)
+2026-02-08 18:50:30,248 - ERROR - OCR failed for data/pdfs\kharab.pdf: (3221225477, '')
+2026-02-08 19:53:40,515 - ERROR - object of type 'NoneType' has no len()
+2026-02-08 19:53:40,529 - ERROR - object of type 'NoneType' has no len()
+2026-02-08 19:53:40,543 - ERROR - object of type 'NoneType' has no len()
+2026-02-08 19:53:40,580 - ERROR - object of type 'NoneType' has no len()
+2026-02-08 19:53:40,595 - ERROR - OCR failed for data/pdfs\Kharab Biparkation Government 2018.pdf: object of type 'NoneType' has no len()
+2026-02-08 19:53:40,614 - ERROR - OCR failed for data/pdfs\local planning authority (2).pdf: object of type 'NoneType' has no len()
+2026-02-08 19:53:40,659 - ERROR - OCR failed for data/pdfs\Government Circular.pdf: object of type 'NoneType' has no len()
+2026-02-08 19:53:40,661 - ERROR - object of type 'NoneType' has no len()
+2026-02-08 19:53:40,663 - ERROR - OCR failed for data/pdfs\local planning authority (2).pdf: object of type 'NoneType' has no len()
+2026-02-08 19:53:40,664 - ERROR - OCR failed for data/pdfs\local planning authority (2).pdf: object of type 'NoneType' has no len()

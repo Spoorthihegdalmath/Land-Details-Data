@@ -1,0 +1,5 @@
+venv/
+venv_land_ai/
+__pycache__/
+.env
+*.pdf

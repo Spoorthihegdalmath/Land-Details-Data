@@ -1,0 +1,13 @@
+streamlit
+pdf2image
+pytesseract
+langchain
+langchain-google-genai
+langchain-huggingface
+langchain-postgres
+psycopg[binary]
+pgvector
+sentence-transformers
+python-dotenv
+langdetect
+Pillow
